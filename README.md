@@ -21,7 +21,7 @@ We introduced the notion of *pools of devices*. These are now responsible for ru
 Fork works out-of-the-box, without any code changes.
 
 
-## Running Fork
+## How it runs
 There are two ways to run Fork with your builds.
 
 ### Gradle plugin (recommended)
